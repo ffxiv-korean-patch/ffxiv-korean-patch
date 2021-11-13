@@ -9,5 +9,5 @@
 - [디스코드 링크](https://discord.gg/3EBk4Xma4F)
 
 <div style="width: 100%;">
-<iframe style="margin: auto;" src="https://ptb.discord.com/widget?id=908148088697409556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe style="display: block; margin: 0 auto;" src="https://ptb.discord.com/widget?id=908148088697409556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
