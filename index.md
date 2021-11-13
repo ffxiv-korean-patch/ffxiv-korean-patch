@@ -6,10 +6,12 @@
 
 - [다운로드 링크](https://github.com/ffxiv-korean-patch/ffxiv-korean-patch/releases/latest/download/FFXIVKoreanLauncher.exe)
 
+<br />
 ## 주의사항
 
 - 현재 기본 언어는 영어만 지원합니다. 파이널 판타지 14 글로벌 클라이언트를 꼭 영어로 설정하신 후 실행기를 사용해주세요.
 
+<br />
 ## 문의사항, 버그 제보
 
 - [디스코드 링크](https://discord.gg/3EBk4Xma4F)
