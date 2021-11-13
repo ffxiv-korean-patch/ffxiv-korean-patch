@@ -6,3 +6,4 @@
 - [디스코드 링크 (문의사항, 버그 제보 등)](https://discord.gg/3EBk4Xma4F)
 
 <h1>EMBED TEST</h1>
+<iframe src="https://ptb.discord.com/widget?id=908148088697409556&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
