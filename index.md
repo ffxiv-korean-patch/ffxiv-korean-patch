@@ -2,7 +2,7 @@
 
 파이널 판타지 14 글로벌 클라이언트에 커스텀 텍스트를 덮어씌워 실행할 수 있는 실행기입니다. 한글 채팅 출력 기능도 포함되어 있습니다.
 
-현재 클라이언트 버전: `2022.01.25.0000.0000`
+현재 클라이언트 버전: `2022.03.01.0000.0000`
 
 - [다운로드 링크](https://github.com/ffxiv-korean-patch/ffxiv-korean-patch/releases/latest/download/FFXIVKoreanLauncher.exe)
 
